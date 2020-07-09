@@ -53,7 +53,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Work</h2>
+          <h2 className="major">Experience</h2>
           <span className="image main">
             <img src={JSONData.WorkImage} alt="" />
           </span>
