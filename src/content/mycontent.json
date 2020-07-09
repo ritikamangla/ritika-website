@@ -17,20 +17,20 @@
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		"My projects primarily revolve around the intricacies of Machine Learning."
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
-	"InternshipsStartLine": "Previously, I have interned with :",
+	"WorkImage": "",
+	"InternshipsStartLine": "",
 	"InternShips": [{
-			"name": "Amazon India",
+			"name": "",
 			"link": "#"
 		},
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
+			"name": "",
 			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
 		},
 		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
+			"name": "",
 			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
 		}
 	],
