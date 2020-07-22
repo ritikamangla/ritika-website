@@ -20,10 +20,14 @@
 		"My projects primarily revolve around the intricacies of Machine Learning."
 	],
 	"WorkImage": "",
-	"InternshipsStartLine": "",
+	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [
+		{
+			"name": "Technopurple IT Solutions Pvt. Ltd , India",
+			"link": ""
+		}
 	],
-	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+	"ProjectsStartLine": "To check out my work click below :",
 	"Projects": [{
 			"name": "Geo-Tracking Of Waste",
 			"link": "https://github.com/ritikamangla/Geo-Tracking-Of-Waste"
